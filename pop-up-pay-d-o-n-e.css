@@ -1,0 +1,388 @@
+.frame-child24,
+.image-37-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 542px;
+  height: 310px;
+}
+.image-37-icon {
+  top: 83px;
+  left: 28px;
+  width: 74px;
+  height: 76px;
+  object-fit: cover;
+}
+.vector-parent5,
+.wonder-ticket5 {
+  position: absolute;
+  top: 64px;
+  left: 24px;
+  width: 542px;
+  height: 310px;
+}
+.wonder-ticket5 {
+  top: 153px;
+  left: 136px;
+  line-height: 24px;
+  display: inline-block;
+  width: 77px;
+  height: 16px;
+}
+.popup-pay-done-child,
+.popup-pay-done-inner,
+.popup-pay-done-item {
+  position: absolute;
+  top: 230px;
+  left: 37px;
+  width: 508px;
+  height: 1px;
+  object-fit: contain;
+}
+.popup-pay-done-inner,
+.popup-pay-done-item {
+  top: 334px;
+}
+.popup-pay-done-inner {
+  top: 132px;
+}
+.credit-card-details {
+  position: absolute;
+  width: calc(100% - 210px);
+  top: 76px;
+  left: 37px;
+  font-size: var(--font-size-mini);
+  line-height: 24px;
+  font-weight: 600;
+  color: #ae8c8c;
+  display: inline-block;
+}
+.arrow-icon {
+  position: absolute;
+  top: 88px;
+  left: 528px;
+  max-height: 100%;
+  width: 25px;
+  object-fit: contain;
+}
+.div34,
+.div35,
+.div36,
+.expand,
+.subtotal3,
+.total {
+  position: absolute;
+  top: 190px;
+  left: 136px;
+  line-height: 24px;
+  display: inline-block;
+  width: 82px;
+  height: 26px;
+}
+.div34,
+.div35,
+.div36,
+.subtotal3,
+.total {
+  top: 153px;
+  left: 497px;
+  width: 61px;
+  height: 22px;
+}
+.div35,
+.div36,
+.subtotal3,
+.total {
+  top: 240px;
+  left: 62px;
+  width: 94px;
+  height: 23px;
+}
+.div35,
+.div36,
+.total {
+  left: 497px;
+}
+.div36,
+.total {
+  top: 283px;
+  left: 63px;
+  font-size: var(--font-size-mini);
+  width: 106px;
+  height: 38px;
+}
+.div36 {
+  left: 462px;
+  font-size: var(--font-size-lg);
+}
+.box {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: var(--color-black);
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+}
+.box,
+.button,
+.text {
+  position: absolute;
+}
+.text {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: calc(50% - 10px);
+  left: calc(50% - 14px);
+  font-size: var(--font-size-base);
+  line-height: 20px;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+}
+.button {
+  height: 5.75%;
+  width: 90.36%;
+  top: 89.39%;
+  right: 4.74%;
+  bottom: 4.86%;
+  left: 4.91%;
+  border-radius: var(--br-81xl);
+}
+.popup-pay-done-child1 {
+  position: absolute;
+  top: 64px;
+  left: 24px;
+  border-radius: var(--br-6xl);
+  width: 544px;
+  height: 310px;
+}
+.image-60-icon1 {
+  position: absolute;
+  top: 147px;
+  left: 52.1px;
+  width: 74.3px;
+  height: 76px;
+  object-fit: cover;
+}
+.credit-card-details1 {
+  position: absolute;
+  width: calc(100% - 210px);
+  top: 76px;
+  left: 37px;
+  font-size: var(--font-size-mini);
+  line-height: 24px;
+  font-weight: 600;
+  color: var(--color-darkslategray-100);
+  display: inline-block;
+}
+.box1 {
+  position: absolute;
+  height: 63.2%;
+  width: 100%;
+  top: 36.8%;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.text1,
+.text2 {
+  position: absolute;
+  line-height: 20px;
+}
+.text1 {
+  border: 0;
+  outline: 0;
+  font-family: var(--font-inter);
+  font-size: var(--font-size-base);
+  background-color: transparent;
+  top: 42px;
+  left: 16px;
+  color: var(--color-silver);
+  text-align: left;
+}
+.text2 {
+  top: 0;
+  left: 0;
+  font-weight: 500;
+}
+.box2,
+.input2 {
+  position: absolute;
+  height: 21.61%;
+  width: 91.87%;
+  top: 78.39%;
+  right: 6.05%;
+  bottom: 0;
+  left: 2.08%;
+}
+.box2 {
+  height: 63.09%;
+  width: 100%;
+  top: 36.91%;
+  right: 0;
+  left: 0;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+}
+.input3,
+.input4 {
+  position: absolute;
+  height: 19.6%;
+  width: 94.52%;
+  top: 26.22%;
+  right: 3.4%;
+  bottom: 54.18%;
+  left: 2.08%;
+}
+.input4 {
+  height: 21.61%;
+  width: 94.71%;
+  top: 0;
+  bottom: 78.39%;
+  left: 1.89%;
+}
+.card-expirstion {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  color: var(--color-black);
+}
+.box4,
+.line-icon1 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+}
+.line-icon1 {
+  height: 30%;
+  width: 60%;
+  top: 40%;
+  right: 20%;
+  bottom: 30%;
+  left: 20%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.arrow {
+  top: 14px;
+  right: 16px;
+  width: 20px;
+  height: 20px;
+}
+.arrow,
+.select1,
+.year {
+  position: absolute;
+}
+.year {
+  top: 14px;
+  left: 16px;
+  line-height: 20px;
+}
+.select1 {
+  height: 59.76%;
+  width: 44.42%;
+  top: 40.24%;
+  right: 4.16%;
+  bottom: 0;
+  left: 51.42%;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.arrow1,
+.select2 {
+  position: absolute;
+  top: 14px;
+  right: 16.2px;
+  width: 20px;
+  height: 20px;
+}
+.select2 {
+  height: 60.24%;
+  width: 48.62%;
+  top: 40.24%;
+  right: 49.87%;
+  bottom: -0.49%;
+  left: 1.51%;
+  border-radius: var(--br-9xs);
+  border: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.form,
+.select {
+  position: absolute;
+  left: 0;
+}
+.select {
+  height: 23.63%;
+  width: 100%;
+  top: 49.28%;
+  right: 0;
+  bottom: 27.09%;
+  overflow: hidden;
+  font-size: var(--font-size-base);
+  color: var(--color-silver);
+}
+.form {
+  top: 71px;
+  width: 529px;
+  height: 347px;
+}
+.payment-via-card {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  font-size: var(--font-size-xl);
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  font-family: var(--font-poppins);
+  display: flex;
+  align-items: center;
+  width: 318px;
+  height: 75px;
+}
+.form-parent {
+  position: absolute;
+  top: 374px;
+  left: 32px;
+  width: 529px;
+  height: 418px;
+  font-size: var(--font-size-sm);
+}
+.popup-pay-done {
+  width: 591px;
+  position: relative;
+  border-radius: 15px;
+  background-color: var(--color-white);
+  height: 905px;
+  max-width: 90%;
+  max-height: 90%;
+  overflow: auto;
+  text-align: left;
+  font-size: var(--font-size-3xs);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}
