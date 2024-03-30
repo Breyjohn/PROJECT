@@ -1,0 +1,377 @@
+.profile-icon2 {
+  position: absolute;
+  height: 0.81%;
+  width: 2.81%;
+  top: 8.13%;
+  right: 12.18%;
+  bottom: 91.06%;
+  left: 85.01%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.status-icon2 {
+  position: absolute;
+  top: 462.3px;
+  left: 2004.7px;
+  width: 88.6px;
+  height: 18px;
+}
+.profile-transaction-history-child {
+  position: absolute;
+  top: 183px;
+  left: 399px;
+  width: 1436px;
+  height: 883px;
+}
+.profile-transaction-history-item {
+  position: absolute;
+  top: 233.3px;
+  left: 502.8px;
+  width: 1209.1px;
+  height: 15px;
+}
+.profile-transaction-history-inner {
+  position: absolute;
+  top: 310px;
+  left: 428px;
+  width: 1296.8px;
+  height: 76px;
+}
+.profile-transaction-history-child1,
+.profile-transaction-history-child2,
+.success-icon {
+  position: absolute;
+  top: 559px;
+  left: 428px;
+  width: 1296.8px;
+  height: 76px;
+}
+.profile-transaction-history-child2,
+.success-icon {
+  top: 809px;
+}
+.success-icon {
+  top: 964.3px;
+  left: 1624.2px;
+  width: 100.6px;
+  height: 15px;
+}
+.profile-transaction-history-child3 {
+  position: absolute;
+  top: 939px;
+  left: 428px;
+  width: 1296.8px;
+  height: 76px;
+}
+.line-22-stroke22 {
+  position: absolute;
+  top: 286.5px;
+  left: 399px;
+  width: 1436px;
+  height: 3px;
+}
+.profile-transaction-history-child4 {
+  position: absolute;
+  top: 434.4px;
+  left: 428px;
+  width: 1296.8px;
+  height: 77.6px;
+}
+.image-6-icon,
+.profile-transaction-history-child5 {
+  position: absolute;
+  top: 689px;
+  left: 428px;
+  width: 1296.8px;
+  height: 76px;
+}
+.image-6-icon {
+  top: 227px;
+  left: 136px;
+  width: 193.8px;
+  height: 100px;
+  object-fit: cover;
+}
+.profile-transaction-history-child6 {
+  position: absolute;
+  top: 888px;
+  left: 146px;
+  width: 173px;
+  height: 173px;
+}
+.profile-transaction-history-child7,
+.trainer-profile {
+  position: absolute;
+  top: 1089px;
+  left: 0;
+  width: 1920px;
+  height: 460px;
+}
+.trainer-profile {
+  top: 2px;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 144px;
+  height: 21px;
+  cursor: pointer;
+}
+.user-icon {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.trainer-profile-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 173px;
+  height: 25px;
+  position: relative;
+}
+.friends {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 134px;
+  height: 25px;
+}
+.friends-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 163px;
+  height: 25px;
+  position: relative;
+}
+.transaction-history {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 208px;
+  height: 27px;
+}
+.transaction-history-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 237px;
+  height: 27px;
+  position: relative;
+}
+.offer-redemptions {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 190px;
+  height: 23px;
+}
+.offer-redemptions-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 219px;
+  height: 25px;
+  position: relative;
+}
+.store {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 134px;
+  height: 27px;
+}
+.pokeball-icon {
+  position: absolute;
+  top: 1px;
+  left: 0;
+  width: 25px;
+  height: 25px;
+  object-fit: cover;
+}
+.store-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 163px;
+  height: 27px;
+  position: relative;
+}
+.global-map1 {
+  margin: 0;
+}
+.team-standings {
+  position: absolute;
+  top: 0;
+  left: 29px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.05em;
+  font-family: var(--font-istok-web);
+  color: var(--color-black);
+  text-align: left;
+  display: inline-block;
+  width: 155px;
+  height: 29px;
+}
+.team-standings-parent {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  width: 184px;
+  height: 29px;
+  position: relative;
+}
+.frame-parent4 {
+  position: absolute;
+  top: 395px;
+  left: 114px;
+  border-radius: var(--br-6xl);
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  gap: var(--gap-21xl);
+}
+.frame-child5 {
+  width: 266px;
+  position: relative;
+  height: 88px;
+}
+.component-4-child13 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-81xl);
+  background: linear-gradient(269.84deg, #6ac5bc, #8fcda2);
+}
+.buy17,
+.component-416 {
+  cursor: pointer;
+  position: absolute;
+}
+.buy17 {
+  top: 31.25%;
+  left: 30%;
+  font-size: var(--font-size-base);
+  letter-spacing: 0.05em;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+}
+.component-416 {
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  top: 0;
+  left: 440px;
+  width: 140px;
+  height: 48px;
+}
+.itranslate-icon4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 50px;
+  height: 50px;
+  object-fit: cover;
+}
+.search-icon5 {
+  position: absolute;
+  top: 1px;
+  left: 73px;
+  width: 264px;
+  height: 48px;
+}
+.cart4 {
+  cursor: pointer;
+  border: 0;
+  padding: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 10px;
+  left: 351px;
+  font-size: var(--font-size-6xl);
+  letter-spacing: 0.05em;
+  font-weight: 700;
+  font-family: var(--font-inter);
+  color: var(--color-royalblue);
+  text-align: center;
+  display: inline-block;
+}
+.component-4-parent13 {
+  width: 580px;
+  position: relative;
+  height: 50px;
+}
+.group-parent13,
+.navbar3 {
+  display: flex;
+  align-items: center;
+}
+.group-parent13 {
+  align-self: stretch;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: var(--gap-961xl);
+}
+.navbar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-white);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.05);
+  width: 1920px;
+  flex-direction: column;
+  justify-content: center;
+  padding: var(--padding-3xl) var(--padding-24xl);
+  box-sizing: border-box;
+}
+.profile-transaction-history {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 1549px;
+  overflow: hidden;
+}
